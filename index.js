@@ -9,4 +9,5 @@ function destructivelyAppendKitten (sisi) {
 
 function destructivelyPrependKitten (sisi) {
   kittens.unshift(sisi);
+  
 }
