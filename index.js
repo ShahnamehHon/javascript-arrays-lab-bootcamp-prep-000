@@ -29,7 +29,7 @@ function appendKitten(sisi) {
 
 function prependKitten(sisi) {
   
-  return [...kittens, 'sisi'];
+  return [sisi, ...kittens];
 }
 
 function removeLastKitten () {
