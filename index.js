@@ -8,5 +8,5 @@ function destructivelyAppendKitten (sisi) {
 }
 
 function destructivelyPrependKitten (sisi) {
-  kittens.pop
+  kittens.unshift(sisi);
 }
