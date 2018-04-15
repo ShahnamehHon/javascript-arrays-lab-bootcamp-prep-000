@@ -11,3 +11,13 @@ function destructivelyPrependKitten (sisi) {
   kittens.unshift(sisi);
   
 }
+
+function destructivelyRemoveLastKitten (sisi) {
+  kittens.pop(sisi);
+  
+}
+
+function destructivelyRemoveFirstKitten (sisi) {
+  kittens.shift(sisi);
+  
+}
