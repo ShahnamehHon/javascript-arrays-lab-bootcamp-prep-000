@@ -32,3 +32,7 @@ function prependKitten (sisi) {
   return [...kittens, sisi];
 }
 
+function removeLastKitten (sisi) {
+  kittens.slice(-1)
+  
+}
