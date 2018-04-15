@@ -24,5 +24,5 @@ function destructivelyRemoveFirstKitten (sisi) {
 
 function appendKitten (sisi) {
   
-  
+  return kittens
 }
