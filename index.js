@@ -2,4 +2,4 @@ const app = "I don't do much."
 
 var kittens = ["Milo", "Otis", "Garfield"];
 
-var destructivelyAppendKitten = new kittens['']
+var destructivelyAppendKitten = new kittens;
