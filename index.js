@@ -21,3 +21,8 @@ function destructivelyRemoveFirstKitten (sisi) {
   kittens.shift(sisi);
   
 }
+
+function appendKitten (sisi) {
+  
+  
+}
