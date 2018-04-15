@@ -2,4 +2,4 @@ const app = "I don't do much."
 
 var kittens = ["Milo", "Otis", "Garfield"];
 
-console.log(kittens.append('Sisi'));
+kittens.append('Sisi'));
