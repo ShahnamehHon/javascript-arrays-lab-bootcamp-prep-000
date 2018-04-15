@@ -2,7 +2,7 @@ const app = "I don't do much."
 
 var kittens = ["Milo", "Otis", "Garfield"];
 
-function app (kittens) {
+function Sisi (kittens) {
   
-  
+  kittens.append(Sisi);
 }
