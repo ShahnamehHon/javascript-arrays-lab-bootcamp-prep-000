@@ -22,9 +22,9 @@ function destructivelyRemoveFirstKitten (sisi) {
   
 }
 
-function appendKitten(sisi) {
+function appendKitten(Broom) {
   
-  return [sisi, ...kittens];
+  return [Broom, ...kittens];
 }
 
 function prependKitten(sisi) {
